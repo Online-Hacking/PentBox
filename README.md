@@ -4,7 +4,7 @@
 PenTBox Tutorial
 -----------------
 
-https://www.kalilinux.in/2019/05/honeypot.html
+https://www.onlinehacking.xyz/
 
 
 <b> Pentbox is a safety kit containing various tools for streamlining PenTest conducting a job easily. It is programmed in Ruby and oriented to GNU / Linux, with support for Windows, MacOS and every systems where Ruby is installed.</b>
@@ -13,9 +13,9 @@ https://www.kalilinux.in/2019/05/honeypot.html
 How to Install
 -----------------
 
-git clone https://github.com/technicaldada/pentbox
+git clone https://github.com/Online-Hacking/PentBox
 
-cd pentbox
+cd PentBox
 
 tar -zxvf pentbox.tar.gz
 
