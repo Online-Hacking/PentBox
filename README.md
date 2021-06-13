@@ -19,7 +19,7 @@ cd PentBox
 
 tar -zxvf pentbox.tar.gz
 
-cd pentbox
+cd pentbox-1.8
 
 ./pentbox.rb
 
